@@ -1,4 +1,5 @@
 **Insurance Data Analysis Project**
+
 **1. Business Objective**
 
 To analyse an insurance claims dataset to identify trends in claim frequency, premium distribution, and segments associated with higher average claim costs. The goal was to simulate how structured data analysis can support underwriting and risk evaluation decisions.
