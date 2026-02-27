@@ -1,31 +1,16 @@
 **# Insurance_analysis**
-A data analysis project using Excel to explore insurance claims data. This project focuses on trends, summarizing key metrics, and providing insights using pivot tables and charts
-**The dataset contains the following columns:**
-- Transaction Date and Time
-- Transaction ID
-- Customer ID
-- Policy Number
-- Loss Date
-- Insurance Type
-- Premium Amount
-- Claim Amount
-- Customer Name
-- Address
-- Age
-- Marital Status
-- Mensch Status
-- House Type
-- Customer Education Level
-- **What I did**
-- Created pivot tables to summarize claims by insurance type, age group, and other categories
-- Calculated total premiums and total claims by segment
-- Visualized trends over time using charts
-- Identified patterns and insights from customer demographics
-- **Key Insights**
-- Total Claim amounts decreased steadily over time
-- Life insurance claims have the highest average cost
-- Mortgage owners have higher average claim amounts
-- **Skills Demonstrated**
-- Excel pivot tables and formulas
-- Data cleaning and exploration
-- Data visualization and summarization
+**1. Business Objective**
+Analyse insurance claims data to identify trends in claim frequency, premium distribution, and high-risk customer segments.
+**2. Tools Used**
+Microsoft Excel
+Pivot Tables
+Charts
+Basic data cleaning
+**3. Key Insights**
+Higher claim averages observed in X demographic segment
+Certain policy types show higher average payout
+Premium vs claim patterns identified
+**4. Business Relevance**
+Demonstrates ability to extract insights from structured insurance data to support risk evaluation and decision-making.
+**5. What I Learned**
+Improved understanding of data segmentation, visual communication, and trend analysis. Data cleaning and exploration
